@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Red Wine Quality Classifier",
-    page_icon="https://account.citibikenyc.com/favicon.ico",
+    page_icon="https://icon-library.com/images/06-512_16618.png",
     menu_items={
         "Get help": "mailto:salimkilinc@yahoo.com",
         "About": "For More Information\n" + "https://github.com/salimkilinc"
