@@ -3,7 +3,7 @@ In the third project of Istanbul Data Science Academy's Data Science Bootcamp, w
 
 In this project, which I call 'Red Wine Quality Classifier', according to the scenario, a luxury restaurant asked me to develop an application that predicts whether the quality of red wine is Low or High based on some wine data in a database.
 
-You can check out the whole analysis by reviewing the project notebook and the python file or you can read my article on Medium for explanations:
+You can check out the whole analysis by reviewing the project notebook and the python file or you can read my article on Medium for explanations: https://medium.com/@salimkilinc/red-wine-quality-classifier-b684ecc19148
 
 You can also use the model I trained in this project as a streamlit application: https://redwine.streamlit.app/
 
